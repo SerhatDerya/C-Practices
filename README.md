@@ -1,5 +1,7 @@
-# C-Practices
+# C Practices
 This repository contains practices for begginers in C programming.
 
 ## 1 - Hello World
-### 2 - Introduction to C
+Learn how to greet the programming world by printing "Hello World" on the screen.
+## 2 - Introduction to C
+Basic operations in C.
